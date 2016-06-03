@@ -12,7 +12,7 @@
        1. Add record: 127.0.0.1 guest.book.info (for example);
              for Linux: /etc/hosts;
              for Windows: C:\Windows\System32\drivers\etc\hosts
-2. Make site accessible in browser:
+       2. Make site accessible in browser:
               for Linux: server LEMP or LAMP
                    - you should create file in site available folder, give name him, guest.book.info;
                     - copy this file into site enabled folder;
