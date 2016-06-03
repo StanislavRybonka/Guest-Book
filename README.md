@@ -1,8 +1,8 @@
 
-                                    About project:
+                                            About project:
                             1. Project based MVC;
                             2. Used php, javascript,HTML5,CSS3;
-                            3. Allows you leaved comment, and sva him in DB;             
+                            3. Allows you leaved comment, and save him in DB;             
                      
                                          Common configuration:
         1. Download or make pull from: git@github.com:StanislavRybonka/Guest-Book.git;
